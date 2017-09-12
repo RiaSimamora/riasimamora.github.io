@@ -20,4 +20,4 @@
   <p align="justify"><strong>Kesimpulan :</strong><br>
   Alasan meangapa saya mendownload dan sangat menyukai game ini karena trailernya yang sangat menarik dan saya sangat suka tantangan match three game. Apalagi visual nya juga menarik. Awalnya saya pikir game ini sangat gampang, tetapi setelah saya melalui beberapa level, ternyata game ini tidak gampang dilalui, harus sabar kalau nyawa nya sudah habis dan stuck di level itu cukup lama. Game ini juga melatih kesabaran pemain untuk menunggu sampai nyawa penuh kembali dan dapat bermain lagi.
 </p>
-</body>
+
