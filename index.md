@@ -1,8 +1,9 @@
 <body>
-  <h1>Review : <i>Candy Crush Soda</i></h1><br>
-  <p align="center">Ria Lestari Simamora</p>
-  <p align="center">3145140589</p>
-  <p align="center">Ilmu Komputer 2014</p>
+  <h1>Review Game : <i>Candy Crush Soda</i></h1><br>
+  <p left="center">Ria Lestari Simamora</p>
+  <p left="center">3145140589</p>
+  <p left="center">Ilmu Komputer 2014</p>
+  <p align="center">Candy Crush Soda Review</p>
   <p align="center"><img src="CandyCrush.png"/></p>
   <p align="justify">Candy Crush Soda adalah salah satu game karya developer king yang saat ini telah meriliskan lanjutan dari game adiktif sebelumnya, yaitu Candy Crush Saga. Secara garis besar, game rilisan terbaru developer king ini masih sama dengan game sebelumnya, yaitu Candy Crush Saga yang harus mengumpulkan poin untuk menang. Perbedaannya adalah pada game rilisan versi terbarunya ini, player harus memasangkan permen dengan soda yang berwarna sama untuk membuka tutup botol soda dan akan memperoleh tantangan yang lebih sulit dengan menghadapi gummy bears, permen kenyal dalam bentuk teddy bears yang harus ditemukan dibalik grid puzzle. </p>
   <p align="justify">Grafis pada game ini sudah bagus. Tampilan di android sangat menarik, desainnya sangat simpel, cantik dan penuh warna, kombinasi warna-warni permen dan kartun yang lucu membuat kita selalu ingin memainkan nya. Untuk efek suara, pada game ini memiliki efek suara yang berbeda dari rilisan sebelumnya. Pada game Candy Crush Saga ada efek suara animasi “Sugar Crush” tetapi untuk game ini efek suaranya adalah “Sodalicious”.  Visual yang ditampilkan warna-warni dan sangat lucu. Game ini bisa dimainkan melalui akun facebook dan bisa di download di AndroidOS atau iOS secara gratis. Untuk memulai game ini tidak perlu menuggu lama karena proses loadingnya sangat cepat. </p>
